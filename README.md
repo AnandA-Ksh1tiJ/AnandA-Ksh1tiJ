@@ -9,7 +9,7 @@ Cloud & Backend Engineer • Go | Python | AWS | Kubernetes | Terraform
 ---
 
 ## 🛠️ Core Skills
-**Languages:** Go, Python, Java, React
+**Languages:** Go, Python, Java, React    
 **Cloud/DevOps:** AWS, Azure, Kubernetes, Docker, Terraform, Helm, GitHub Actions, Jenkins, Spinnaker  
 **Data/Messaging:** DynamoDB, Postgres/MySQL, MongoDB, Elasticsearch, Cassandra, Kafka  
 **Observability:** Grafana, Prometheus, New Relic, CloudWatch  
@@ -39,11 +39,6 @@ Cloud & Backend Engineer • Go | Python | AWS | Kubernetes | Terraform
 **Repo:** https://github.com/AnandA-Ksh1tiJ/Complex-NER-Detection
 
 ---
-
-### Fault Detection Microservices (Case Study)
-**Stack:** Golang, Kafka, Elasticsearch, Kubernetes, Helm, Jenkins  
-**Impact:** Real-time monitoring at telecom scale (1M+ active notifications).  
-**Docs:** `docs/fault-detection-case-study.md` (write a short technical story + sanitized patterns)
 
 ---
 
