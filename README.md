@@ -23,6 +23,7 @@ Cloud & Backend Engineer • Go | Python | AWS | Kubernetes | Terraform
 ### Scalable & Secure E-Commerce Platform on AWS
 **Stack:** AWS (ALB, Auto Scaling, RDS-MySQL, S3, CloudFront, WAF, ACM), Docker, Terraform, GitHub Actions  
 **What I built:** Highly available e-commerce backend with autoscaling, global CDN, and WAF hardening (OWASP Top-10).  
+
 ---
 
 ### Multilingual Complex NER System
