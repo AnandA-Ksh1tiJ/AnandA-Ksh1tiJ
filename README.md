@@ -52,5 +52,5 @@ Cloud & Backend Engineer • Go | Python | AWS | Kubernetes | Terraform
 
 ## 📫 Contact
 **Email:** anandakshitij1997@gmail.com • **LinkedIn:** https://www.linkedin.com/in/ananda-kshitij/  
-**Resume:** Ananda_Kshitij_Resume.pdf
+**Resume:** [Resume](Ananda_Kshitij_Resume.pdf)
 
