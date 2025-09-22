@@ -23,22 +23,12 @@ Cloud & Backend Engineer • Go | Python | AWS | Kubernetes | Terraform
 ### Scalable & Secure E-Commerce Platform on AWS
 **Stack:** AWS (ALB, Auto Scaling, RDS-MySQL, S3, CloudFront, WAF, ACM), Docker, Terraform, GitHub Actions  
 **What I built:** Highly available e-commerce backend with autoscaling, global CDN, and WAF hardening (OWASP Top-10).  
-**Outcomes (update with your real numbers):**  
-- 99.9%+ uptime • p95 page load ↓ **X% (Y.s → Z.s)**  
-- Autoscaled to **N req/min** during peak traffic  
-- WAF blocked **M+/mo** SQLi/XSS attempts  
-**Architecture:** `assets/aws-ecommerce-arch.png`  
-> Tip: add a simple diagram image at `assets/aws-ecommerce-arch.png` and reference it here:
-> `![AWS E-Commerce Architecture](assets/aws-ecommerce-arch.png)`
-
 ---
 
 ### Multilingual Complex NER System
 **Stack:** Python, PyTorch/TensorFlow, BERT-Large, XLM-RoBERTa, CRF  
 **Focus:** Nested entity recognition across multilingual datasets.  
 **Repo:** https://github.com/AnandA-Ksh1tiJ/Complex-NER-Detection
-
----
 
 ---
 
@@ -52,5 +42,5 @@ Cloud & Backend Engineer • Go | Python | AWS | Kubernetes | Terraform
 
 ## 📫 Contact
 **Email:** anandakshitij1997@gmail.com • **LinkedIn:** https://www.linkedin.com/in/ananda-kshitij/  
-**Resume:** [Resume](Ananda_Kshitij_Resume.pdf)
+**Resume:** [Ananda Kshitij Resume](Ananda_Kshitij_Resume.pdf)
 
